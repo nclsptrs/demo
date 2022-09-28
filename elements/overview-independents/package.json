@@ -1,0 +1,12 @@
+{
+  "name": "@acerta-webcomponents/overview-independents",
+  "version": "0.0.0",
+  "description": "Acerta element",
+  "main": "overview-independents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acerta",
+  "license": "ISC",
+  "files": ["overview-independents.js"]
+}

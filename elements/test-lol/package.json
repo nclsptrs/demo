@@ -1,0 +1,12 @@
+{
+  "name": "@acerta-webcomponents/test-lol",
+  "version": "0.0.0",
+  "description": "Acerta element",
+  "main": "test-lol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acerta",
+  "license": "ISC",
+  "files": ["test-lol.js"]
+}
